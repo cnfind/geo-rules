@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "adguardteam.github.io",
+        "adrules.top",
+        "anti-ad.net",
+        "local.adguard.org",
+        "static.adtidy.org"
+      ],
+      "domain_keyword": [
+        "ntp",
+        "time",
+        "stun"
+      ],
+      "domain_suffix": [
+        "msftconnecttest.com",
+        "msftncsi.com",
+        "steamcontent.com"
+      ]
+    }
+  ]
+}
